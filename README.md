@@ -1,4 +1,4 @@
-## What You Should Know For Technical Interviews
+## Checklist
 
 Here's a checklist of things that you should probably be prepared to know in a technical interview:
  
@@ -53,7 +53,7 @@ Time Complexities
   * [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
   * [Algorithm Implementations](https://github.com/kennyledet/Algorithm-Implementations)
   * [Top 10 Algorithms for Coding Interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) 
-
+  * [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandy Metz
 
 ## Problem Sets
   * [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/) 
@@ -68,6 +68,7 @@ Time Complexities
 ## Mock Interviews
   * [Pramp](https://www.pramp.com/)
   * [Careercup](https://www.careercup.com/interview)
+  * [CodeWars](https://www.codewars.com/)
   * [Gainlo](http://www.gainlo.co/#!/)
   * [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/)
   * [Interview Cake](https://www.interviewcake.com/)
@@ -83,5 +84,3 @@ Time Complexities
   * [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
   * [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
   * [Cracking the Coding Interview, 6th edition, by Gayle Laakmann McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1443719471&sr=8-1&keywords=coding+interview)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-technical-interviewing-resources'>Careers Technical Interviewing Resources</a> on Learn.co and start learning to code for free.</p>
